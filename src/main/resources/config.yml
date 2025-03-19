@@ -1,2 +1,8 @@
 server:
   prefix: "&x&4&2&0&5&A&5E&x&5&1&1&7&B&3c&x&5&F&2&9&C&1l&x&6&E&3&C&D&0i&x&7&D&4&E&D&Ep&x&8&B&6&0&E&Cs&x&9&A&7&2&F&Ae &7➪ &r"
+
+
+maintenance:
+  enabled: true
+  motd.first: ""
+  motd.second: ""

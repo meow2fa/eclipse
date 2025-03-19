@@ -1,2 +1,10 @@
-player.server.join: "JOIN"
-player.server.quit: "QUIT"
+player.join.message:
+  enabled: true
+  message: "%prefix% %player% Joined the Server"
+
+player.quit.message:
+  enabled: true
+  message: "%prefix% %player% Leaved the Server"
+
+maintenance:
+  kick.message: "&cThis Server is Currently in Maintenance\nPlease Try Again Later"
