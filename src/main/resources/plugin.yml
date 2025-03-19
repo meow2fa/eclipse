@@ -1,0 +1,4 @@
+name: Eclipse
+version: '${project.version}'
+main: de.nonbi.eclipse.Main
+api-version: '1.21'

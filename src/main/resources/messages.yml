@@ -1,0 +1,2 @@
+player.server.join: "JOIN"
+player.server.quit: "QUIT"
